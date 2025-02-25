@@ -4,11 +4,10 @@
 
 
 - <b>Java Swing</b>
-  - [Login System](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Number Guessing Game](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Hiragana Game Demo (Learn how to read Japanese)](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
+- <b>Java Swing & JDBC</b>
+  - [Login & Registration System](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>💬 About Me</h2>
 
 - I am a Software Engineering student at <a href = "https://www.uni-due.de/">Universität Duisburg-Essen</a>
