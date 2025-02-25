@@ -17,13 +17,6 @@
 - I like coding, developing games, playing volleyball, training calisthenics and learning languages
 - I speak german, english, czech, and a bit of russian, spanish and japanese
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="maxe04 | E-Mail" width="22px" src="https://www.svgrepo.com/show/501173/email.svg" />][mail]
-
-[mail]: (mailto:maxigunther9@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-
 
 <!--
 **maxe04/maxe04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
