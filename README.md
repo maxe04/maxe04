@@ -5,9 +5,9 @@
 
 - <b>Java Swing</b>
   - [Number Guessing Game](https://github.com/maxe04/Guess-The-Number)
-  - [Hiragana Game Demo (Learn how to read Japanese)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hiragana Game Demo (Learn how to read Japanese)]()
 - <b>JDBC & Java Swing</b>
-  - [Login & Registration System](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Login & Registration System]()
 <h2>💬 About Me</h2>
 
 - I am a Software Engineering student at <a href = "https://www.uni-due.de/">Universität Duisburg-Essen</a>
