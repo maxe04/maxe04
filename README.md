@@ -4,9 +4,9 @@
 
 
 - <b>Java Swing</b>
-  - [Number Guessing Game](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Number Guessing Game](https://github.com/maxe04/Guess-The-Number)
   - [Hiragana Game Demo (Learn how to read Japanese)](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Java Swing & JDBC</b>
+- <b>JDBC & Java Swing</b>
   - [Login & Registration System](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>💬 About Me</h2>
 
