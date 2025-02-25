@@ -11,7 +11,7 @@
 
 <h2>💬 About Me</h2>
 
-- I am a Software Engineering student at <a href = "https://www.uni-due.de/">Universität Duisburg-Essen</a>
+- I am a Software Engineering student at <a href = "https://www.uni-due.de/">Universität Duisburg-Essen</a> currently iny my 2nd semester
 - I am looking for a working student job / internship
 - I am currently working on improving my programming skills by working on personal projects
 - I like coding, developing games, playing volleyball, training calisthenics and learning languages
