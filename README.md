@@ -7,7 +7,7 @@
   - [Number Guessing Game](https://github.com/maxe04/Guess-The-Number)
   - [Hiragana Game Demo (Learn how to read Japanese)](https://github.com/maxe04/Hiragana-Game)
 - <b>JDBC & Java Swing</b>
-  - [Login & Registration System]()
+  - [Login & Registration System](https://github.com/maxe04/Login-System)
 <h2>💬 About Me</h2>
 
 - I am a Software Engineering student at <a href = "https://www.uni-due.de/">Universität Duisburg-Essen</a>
