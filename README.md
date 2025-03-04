@@ -6,7 +6,7 @@
 - <b>Java Swing</b>
   - [Number Guessing Game](https://github.com/maxe04/Guess-The-Number)
   - [Hiragana Game Demo (Learn how to read Japanese)](https://github.com/maxe04/Hiragana-Game)
-  - [Todo List)](https://github.com/maxe04/Todo-List)
+  - [Todo List](https://github.com/maxe04/Todo-List)
 - <b>JDBC & Java Swing</b>
   - [Login & Registration System](https://github.com/maxe04/Login-System)
 <h2>💬 About Me</h2>
