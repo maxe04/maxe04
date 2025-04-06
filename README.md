@@ -9,6 +9,7 @@
   - [Todo List](https://github.com/maxe04/Todo-List)
 - <b>JDBC & Java Swing</b>
   - [Login & Registration System](https://github.com/maxe04/Login-System)
+  - [Student Management System](https://github.com/maxe04/Student-Mangement-System)
 <h2>💬 About Me</h2>
 
 - I am a Software Engineering student at <a href = "https://www.uni-due.de/">Universität Duisburg-Essen</a>
