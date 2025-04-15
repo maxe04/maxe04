@@ -1,7 +1,13 @@
 <h1>Hi, I'm Maxi <br/><a href="https://github.com/maxe04">Software Engineering Student</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👩‍💻Web Development Projects:</h2>
 
+- <b>Bootstrap</b>
+  - [TinDog](https://github.com/maxe04/TinDog)
+    
+
+
+<h2>☕Java Projects:</h2>
 
 - <b>Java Swing</b>
   - [Number Guessing Game](https://github.com/maxe04/Guess-The-Number)
@@ -10,6 +16,9 @@
 - <b>JDBC & Java Swing</b>
   - [Login & Registration System](https://github.com/maxe04/Login-System)
   - [Student Management System](https://github.com/maxe04/Student-Mangement-System)
+
+
+
 <h2>💬 About Me</h2>
 
 - I am a Software Engineering student at <a href = "https://www.uni-due.de/">Universität Duisburg-Essen</a>
