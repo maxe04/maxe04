@@ -3,13 +3,13 @@
 <h2>👩‍💻 My Projects </h2>
 
 
-<h3>💻Web Development</h3>
+<h3><ins>Web Development</ins></h3>
 
 - <b>Bootstrap</b>
   - [TinDog](https://github.com/maxe04/TinDog)
     
 
-<h3>☕Java</h3>
+<h3><ins>Java</ins></h3>
 
 - <b>Java Swing</b>
   - [Number Guessing Game](https://github.com/maxe04/Guess-The-Number)
