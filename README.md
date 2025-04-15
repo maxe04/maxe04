@@ -1,5 +1,5 @@
 <h1>Hi, I'm Maxi <br/><a href="https://github.com/maxe04">Software Engineering Student</a></h1>
-
+<h3><ins>My Projects:</ins></h3>
 <h2>👩‍💻Web Development Projects:</h2>
 
 - <b>Bootstrap</b>
