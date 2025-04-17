@@ -1,15 +1,13 @@
 <h1>Hi, I'm Maxi <br/><a href="https://github.com/maxe04">Software Engineering Student</a></h1>
 
-<h2>👩‍💻 My Projects </h2>
 
-
-<h3><ins>Web Development</ins></h3>
+<h2>💻Web Development Projects</h2>
 
 - <b>Bootstrap</b>
   - [TinDog](https://github.com/maxe04/TinDog)
     
 
-<h3><ins>Java</ins></h3>
+<h2>☕Java Projects</h2>
 
 - <b>Java Swing</b>
   - [Number Guessing Game](https://github.com/maxe04/Guess-The-Number)
