@@ -1,11 +1,14 @@
 <h1>Hi, I'm Maxi <br/><a href="https://github.com/maxe04">Software Engineering Student</a></h1>
 
+<h2>🎮Game Development Projects</h2>
+
+- <b>Godot Engine</b>
+  - [Hanako Hime](https://github.com/maxe04/Hanako-Hime)
 
 <h2>💻Web Development Projects</h2>
 
 - <b>Bootstrap</b>
   - [TinDog](https://github.com/maxe04/TinDog)
-    
 
 <h2>☕Java Projects</h2>
 
