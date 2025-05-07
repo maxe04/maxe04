@@ -15,6 +15,9 @@
 
 - <b>Streamlit, Pandas</b>
   - [Basic CSV Data Visualizer](https://github.com/maxe04/CSVDataVisualizer)
+- <b>Tkinter, Pandas</b>
+  - [Fitts' Law Experiment](https://github.com/maxe04/FittsLaw)
+    
 
 
 <h2>☕Java Projects</h2>
