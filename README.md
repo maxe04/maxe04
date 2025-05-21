@@ -29,7 +29,7 @@
   - [Login & Registration System](https://github.com/maxe04/Login-System)
   - [Student Management System](https://github.com/maxe04/Student-Mangement-System)
 
-<h2>📱UI Design</h2>
+<h2>📱UI Design Projects</h2>
 
 - <b>Figma</b>
   - [Uni-App Prototype](https://github.com/maxe04/uni-app-prototype)
