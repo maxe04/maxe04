@@ -42,6 +42,6 @@
 - I am a Software Engineering student at <a href = "https://www.uni-due.de/">Universität Duisburg-Essen</a>
 - I am currently working on improving my programming skills by working on personal projects
 - I like coding, developing games, playing volleyball, training calisthenics and learning languages
-- I speak german, english, czech, and a bit of russian, spanish and japanese
+- I speak german, english and czech
 
 
